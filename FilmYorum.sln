@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmYorum", "FilmYorum\FilmYorum.csproj", "{F5E793C2-818A-48B5-A91A-1D7C75631976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmYorum.Data", "FilmYorum.Data\FilmYorum.Data.csproj", "{0DE297DB-423B-4D2B-8776-0D107D65A80C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E793C2-818A-48B5-A91A-1D7C75631976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E793C2-818A-48B5-A91A-1D7C75631976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E793C2-818A-48B5-A91A-1D7C75631976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E793C2-818A-48B5-A91A-1D7C75631976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE297DB-423B-4D2B-8776-0D107D65A80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE297DB-423B-4D2B-8776-0D107D65A80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE297DB-423B-4D2B-8776-0D107D65A80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE297DB-423B-4D2B-8776-0D107D65A80C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {865715E6-F5C9-4A1F-90DF-C38BFC49026C}
+	EndGlobalSection
+EndGlobal
